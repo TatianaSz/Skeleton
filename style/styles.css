@@ -1,0 +1,12 @@
+.header{
+	background: rgb(24,24,24);
+	background: -moz-linear-gradient(203deg, rgba(24,24,24,1) 0%, rgba(33,34,44,1) 61%, rgba(36,37,52,1) 100%);
+	background: -webkit-linear-gradient(203deg, rgba(24,24,24,1) 0%, rgba(33,34,44,1) 61%, rgba(36,37,52,1) 100%);
+	background: linear-gradient(203deg, rgba(24,24,24,1) 0%, rgba(33,34,44,1) 61%, rgba(36,37,52,1) 100%);
+	color:#c9d1d9;
+	border-bottom: 1px solid #38393a;
+}
+body{
+	background-color: #18191a;
+	color:#c9d1d9;
+}
