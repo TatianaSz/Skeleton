@@ -4,7 +4,20 @@
 	background: -webkit-linear-gradient(203deg, rgba(24,24,24,1) 0%, rgba(33,34,44,1) 61%, rgba(36,37,52,1) 100%);
 	background: linear-gradient(203deg, rgba(24,24,24,1) 0%, rgba(33,34,44,1) 61%, rgba(36,37,52,1) 100%);
 	color:#c9d1d9;
+	box-shadow: 0 1px 3px 0 rgba(0,0,0,0.3);
 	border-bottom: 1px solid #38393a;
+	margin-bottom:1rem;
+}
+.logo{
+	height: 7rem;
+	position:relative;
+}
+.logo h1{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 body{
 	background-color: #18191a;
@@ -14,4 +27,7 @@ body{
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
+}
+.one-third.column{
+	text-align: center;
 }
