@@ -25,9 +25,21 @@ body{
 }
 .u-max-full-width{
 	display: block;
-	margin-right: auto;
-	margin-left: auto;
-}
+}	
 .one-third.column{
 	text-align: center;
+	position:relative;
+	margin-top:1rem;
+	margin-bottom:1rem;
+}
+.describe{
+	opacity:0;
+	position:absolute;
+	top:0;
+	width:100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.45);
+}
+.describe:hover{
+	opacity:1;
 }
