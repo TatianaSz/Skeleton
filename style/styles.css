@@ -10,3 +10,8 @@ body{
 	background-color: #18191a;
 	color:#c9d1d9;
 }
+.u-max-full-width{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
