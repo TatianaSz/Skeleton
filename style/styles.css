@@ -85,3 +85,19 @@ body{
 i{
 	margin-right:1rem;
 }
+footer{
+	margin-top:.7rem;
+	background: rgb(24,24,24);
+	background: -moz-linear-gradient(203deg, rgba(24,24,24,1) 0%, rgba(33,34,44,1) 61%, rgba(36,37,52,1) 100%);
+	background: -webkit-linear-gradient(203deg, rgba(24,24,24,1) 0%, rgba(33,34,44,1) 61%, rgba(36,37,52,1) 100%);
+	background: linear-gradient(203deg, rgba(24,24,24,1) 0%, rgba(33,34,44,1) 61%, rgba(36,37,52,1) 100%);
+	border-top: 1px solid #38393a;
+
+}
+.six.columns{
+	margin-top:.7rem;
+}
+.six.columns a{
+	color:#c9d1d9;
+	text-decoration:none;
+}
